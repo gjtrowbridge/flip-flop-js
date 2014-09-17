@@ -1,0 +1,22 @@
+{
+  "name": "flip-flop-js",
+  "version": "0.0.0",
+  "description": "A javascript implementation of the gist found here https://gist.github.com/mongolab-org/5347810...though I've made a few slight changes.",
+  "main": "watch-flip-flop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gjtrowbridge/flip-flop-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjtrowbridge/flip-flop-js/issues"
+  },
+  "homepage": "https://github.com/gjtrowbridge/flip-flop-js",
+  "dependencies": {
+    "mongodb": "^1.4.12"
+  }
+}
